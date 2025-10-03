@@ -1,5 +1,5 @@
 <h1 align="center">Hi, there 👋, I'm Zhiyong (ifsihj)</h1>
-<h3 align="center">✨ Amateur in Data Science | Knowledge Discovery | Fancy Experiments ✨</h3>
+<h3 align="center">✨ Amateur in Data Science | Knowledge Discovery | Fancy Experiments | Computer Science & Humanity ✨</h3>
 
 <p align="center">
   <a href="https://github.com/ifsihj"><img src="https://komarev.com/ghpvc/?username=ifsihj&label=Profile%20views&color=0e75b6&style=flat" alt="ifsihj" /></a>
